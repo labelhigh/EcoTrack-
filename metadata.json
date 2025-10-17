@@ -1,0 +1,5 @@
+{
+  "name": "EcoTrack 碳權管理平台-VB-OK",
+  "description": "EcoTrack 是一個碳權管理與交易平台，旨在幫助企業簡化其 ESG（環境、社會與公司治理）流程。其核心功能涵蓋：碳排放計算、再生能源證書採購、碳權抵換以及自動化報告生成。",
+  "requestFramePermissions": []
+}
